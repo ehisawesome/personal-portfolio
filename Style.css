@@ -1,0 +1,132 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  color: #66BFBF;
+  margin-top: 0;
+  font-family: 'Montserrat', serif;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', serif;
+  padding-bottom: 10px;
+}
+h3{
+  color: #66BFBF;
+  font-family: 'Montserrat', serif;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+.top-contaciner{
+  background-color: #EAF6F6;
+  padding-top: 200px;
+  position: relative;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.Name{
+  font-size: 4.375rem;
+  font-family: 'Sacramento', cursive;
+  margin: 0;
+}
+.tagline{
+  font-size: 1.25rem;
+  font-family: 'Merriweather', serif;
+}
+.bottom-cloud{
+  position: absolute;
+  top: 143px;
+  right: 349px;
+}
+.top-cloud{
+  position: absolute;
+  left: 401px;
+  top: 366px;
+}
+.land{
+  margin-top: 90px;
+  margin-bottom: -4px;
+  width: 70%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.profilePic{
+  width: 14%;
+}
+.me-svg{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+.me-dev-svg{
+  width: 18%;
+  float: right;
+  margin-left: 30px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contactBio{
+  width: 40%;
+  margin: 50px auto 50px auto;
+}
+.myButton {
+	box-shadow:inset 0 1px 0 0 #66bfbf;
+	background:linear-gradient(to bottom, #7dbaba 5%, #66bfbf 100%);
+	background-color:#7dbaba;
+	border-radius:6px;
+	border:1px solid #6b9494;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #266363;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #66bfbf 5%, #7dbaba 100%);
+	background-color:#66bfbf;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container a{
+  color: #11999E;
+  font-family: 'Montserrat', serif;
+  margin: 10px;
+  text-decoration: none;
+}
+.bottom-container a:hover{
+  color: white;
+}
+.bottom-container a:active{
+  color: white;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75em;
+  padding: 20px 0;
+}
